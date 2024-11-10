@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Books_Shop/static/css/main.168085d4.css",
+    "main.js": "/Books_Shop/static/js/main.d62e6aef.js",
+    "static/js/453.f633e2e2.chunk.js": "/Books_Shop/static/js/453.f633e2e2.chunk.js",
+    "static/media/the-hobbit-best-selling-books-of-all-time.jpg": "/Books_Shop/static/media/the-hobbit-best-selling-books-of-all-time.a050819ff40d1c3228f2.jpg",
+    "static/media/Dead And Buried.jpg": "/Books_Shop/static/media/Dead And Buried.1b4893e084a2b607deb1.jpg",
+    "static/media/Heaven Offcial Blessing.jpg": "/Books_Shop/static/media/Heaven Offcial Blessing.27d3ea87ff8340000ad1.jpg",
+    "static/media/The_Book_Thief_by_markus_Zusak.jpg": "/Books_Shop/static/media/The_Book_Thief_by_markus_Zusak.d0eae700ebc06685b189.jpg",
+    "static/media/80_inr.jpg": "/Books_Shop/static/media/80_inr.e35189525d7185736ac6.jpg",
+    "static/media/84_inr.jpg": "/Books_Shop/static/media/84_inr.b1b098a744dd03723bca.jpg",
+    "static/media/79_inr.jpg": "/Books_Shop/static/media/79_inr.c4fb5da0ef8973341b67.jpg",
+    "static/media/all-the-broken-places-7.jpg": "/Books_Shop/static/media/all-the-broken-places-7.04870c8c157593e1d736.jpg",
+    "static/media/Nossett_Lauren_The_Resemblance.jpg": "/Books_Shop/static/media/Nossett_Lauren_The_Resemblance.cbc910ff5ff560bb43f0.jpg",
+    "static/media/MISERY (REISSUE) .jpg": "/Books_Shop/static/media/MISERY (REISSUE) .cf31ca9bb3f86dbb0ad3.jpg",
+    "static/media/Dracula.jpg": "/Books_Shop/static/media/Dracula.fb20bbdea1ee5daa888d.jpg",
+    "static/media/The Canterville Ghost .jpg": "/Books_Shop/static/media/The Canterville Ghost .29a6c05aa04e38cf56aa.jpg",
+    "static/media/Ghosts Of The Silent Hills_.jpg": "/Books_Shop/static/media/Ghosts Of The Silent Hills_.f1c81f250e5ab4177d8e.jpg",
+    "static/media/days at morisaki Bookshop.webp": "/Books_Shop/static/media/days at morisaki Bookshop.e7fca9edb8e5c6606c3d.webp",
+    "static/media/Pet Sematary.jpg": "/Books_Shop/static/media/Pet Sematary.b8d12955345db045a630.jpg",
+    "static/media/A Man Called Ove.webp": "/Books_Shop/static/media/A Man Called Ove.64d9f211244e88583a3e.webp",
+    "static/media/The Slient patient.webp": "/Books_Shop/static/media/The Slient patient.a7ab9ef1520cbfb160ff.webp",
+    "static/media/That Night.webp": "/Books_Shop/static/media/That Night.41f02986117799840413.webp",
+    "static/media/A Buddha in the Study.webp": "/Books_Shop/static/media/A Buddha in the Study.a7b562e0282f9ae14912.webp",
+    "static/media/Shadows Of Obsession.webp": "/Books_Shop/static/media/Shadows Of Obsession.9f07fc54b4e64ffdcda3.webp",
+    "static/media/slick.svg": "/Books_Shop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Books_Shop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Books_Shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Books_Shop/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Books_Shop/index.html",
+    "main.168085d4.css.map": "/Books_Shop/static/css/main.168085d4.css.map",
+    "main.d62e6aef.js.map": "/Books_Shop/static/js/main.d62e6aef.js.map",
+    "453.f633e2e2.chunk.js.map": "/Books_Shop/static/js/453.f633e2e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168085d4.css",
+    "static/js/main.d62e6aef.js"
+  ]
+}
